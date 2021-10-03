@@ -1,0 +1,11 @@
+# Exclude all
+*
+
+# Inclusion
+!*/
+!.gitignore
+!Makefile
+!README.md
+!fig/*
+!sources/*
+!*.tex
